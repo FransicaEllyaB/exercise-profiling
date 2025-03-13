@@ -111,3 +111,5 @@ Profiling membantu mengetahui titik lemah dalam aplikasi.
   ![Screenshot 2025-03-13 082024](https://github.com/user-attachments/assets/2c3cfad7-2b9e-4494-999d-a57ba83e041f)
 
 </details>
+
+Dari hasil perbandingan antara before Profiling and Performance Optimization dan after Profiling and Performance Optimization dengan menggunakan JMeter dan Intellij Profiler, terlihat perbedaan yang signifikan dalam waktu eksekusi. Before profiling and performance optimization dibutuhkan waktu yang lama dibandingkan dengan after profiling and performance optimization yang menunjukkan adanya peningkatan performa yang signifikan. Oleh karena itu, optimisasi melalui profiling berhasil meningkatkan performa aplikasi dengan mengurangi waktu eksekusi.
