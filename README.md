@@ -40,36 +40,37 @@ Profiling membantu mengetahui titik lemah dalam aplikasi.
 <b>Before Profiling and Performance Optimization</b>
 
 * <b>View Results Tree</b>
-  ![Screenshot 2025-03-13 055443.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20055443.png)
+  ![Screenshot 2025-03-13 081030](https://github.com/user-attachments/assets/42c50ad7-0a91-4192-8b7a-b503355545f6)
+
 
 * <b>View Results in Table</b>
-  ![Screenshot 2025-03-13 055452.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20055452.png)
+  ![Screenshot 2025-03-13 081043](https://github.com/user-attachments/assets/7b86c19c-66ec-49e4-832d-3739264342dc)
 
 * <b>Summary Report</b>
-  ![Screenshot 2025-03-13 055504.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20055504.png)
+  ![Screenshot 2025-03-13 081053](https://github.com/user-attachments/assets/8b5561fa-ae78-421b-a28a-20dbbb98f8e3)
 
 * <b>Graph Results</b>
-  ![Screenshot 2025-03-13 055515.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20055515.png)
+  ![Screenshot 2025-03-13 081105](https://github.com/user-attachments/assets/0999220d-fa2a-496c-8c6d-2f0f8f5edd20)
 
 * Test Result JMeter
-  ![Screenshot 2025-03-13 055745.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20055745.png)
+  ![Screenshot 2025-03-13 081214](https://github.com/user-attachments/assets/94dbc9f4-6da1-44d3-8f04-4c5796510881)
 
 <b>After Profiling and Performance Optimization</b>
 
 * <b>View Results Tree</b>
-  ![Screenshot 2025-03-13 003112.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20003112.png)
+  ![Screenshot 2025-03-13 081715](https://github.com/user-attachments/assets/ce8ab15b-c47b-46b2-886a-a0547563ef3c)
 
 * <b>View Results in Table</b>
-  ![Screenshot 2025-03-13 003122.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20003122.png)
+  ![Screenshot 2025-03-13 081724](https://github.com/user-attachments/assets/bf1f5766-f243-4621-842f-e2d9653b0466)
 
 * <b>Summary Report</b>
-  ![Screenshot 2025-03-13 003135.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20003135.png)
+  ![Screenshot 2025-03-13 081734](https://github.com/user-attachments/assets/7a37f6d0-71bd-4085-8653-e9780c68b828)
 
 * <b>Graph Results</b>
-  ![Screenshot 2025-03-13 003146.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20003146.png)
+  ![Screenshot 2025-03-13 081741](https://github.com/user-attachments/assets/e3d395ba-02d7-4bb4-ad1b-8865839c3524)
 
 * Test Result JMeter
-  ![Screenshot 2025-03-13 003806.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20003806.png)
+  ![Screenshot 2025-03-13 081846](https://github.com/user-attachments/assets/a34f663f-8e37-47b1-a940-41a26a6950bc)
 
 </details>
 
@@ -78,34 +79,35 @@ Profiling membantu mengetahui titik lemah dalam aplikasi.
 <b>Before Profiling and Performance Optimization</b>
 
 * <b>View Results Tree</b>
-  ![Screenshot 2025-03-13 055858.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20055858.png)
+  ![Screenshot 2025-03-13 081310](https://github.com/user-attachments/assets/669b2904-a781-485b-adfa-294ccfb905f8)
 
 * <b>View Results in Table</b>
-  ![Screenshot 2025-03-13 055911.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20055911.png)
+  ![Screenshot 2025-03-13 081324](https://github.com/user-attachments/assets/e570afe5-28d0-4129-b4b3-4909f1a191d8)
 
 * <b>Summary Report</b>
-  ![Screenshot 2025-03-13 055925.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20055925.png)
+  ![Screenshot 2025-03-13 081337](https://github.com/user-attachments/assets/fefdb95a-e895-423e-a809-d12ff7a9841c)
 
 * <b>Graph Results</b>
-  ![Screenshot 2025-03-13 055936.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20055936.png)
+  ![Screenshot 2025-03-13 081349](https://github.com/user-attachments/assets/dae28e47-43a3-464d-9d5f-67dfc03e6744)
 
 * Test Result JMeter
-  ![Screenshot 2025-03-13 060035.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20060035.png)
+  ![Screenshot 2025-03-13 081418](https://github.com/user-attachments/assets/aac10a04-f1f1-410d-a145-66ebe7f76a24)
 
 <b>After Profiling and Performance Optimization</b>
 
 * <b>View Results Tree</b>
-  ![Screenshot 2025-03-13 002730.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20002730.png)
+  ![Screenshot 2025-03-13 081922](https://github.com/user-attachments/assets/eb90d008-7a0d-4a49-8a60-d7b63e13276e)
 
 * <b>View Results in Table</b>
-  ![Screenshot 2025-03-13 002740.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20002740.png)
+  ![Screenshot 2025-03-13 081930](https://github.com/user-attachments/assets/1a2ea0f0-efde-40c4-b887-a03097671486)
 
 * <b>Summary Report</b>
-  ![Screenshot 2025-03-13 002748.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20002748.png)
+  ![Screenshot 2025-03-13 081937](https://github.com/user-attachments/assets/68ca66a1-19bf-440a-b516-dd3594baeb15)
 
 * <b>Graph Results</b>
-  ![Screenshot 2025-03-13 002756.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20002756.png)
+  ![Screenshot 2025-03-13 081948](https://github.com/user-attachments/assets/76f29b96-0cc0-43ab-af06-7dcf18801fb2)
 
 * Test Result JMeter
-  ![Screenshot 2025-03-13 003232.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202025-03-13%20003232.png)
+  ![Screenshot 2025-03-13 082024](https://github.com/user-attachments/assets/2c3cfad7-2b9e-4494-999d-a57ba83e041f)
+
 </details>
